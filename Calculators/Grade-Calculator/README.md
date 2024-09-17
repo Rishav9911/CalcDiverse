@@ -1,10 +1,13 @@
-# <p align="center">Subject Grade Calculator</p>
+# <p align="center">Grade Calculator</p>
 
 ## Description :-
 
 Calculates the grade based on total marks scored. 
 
-It takes marks of each individual subject and calculates the total first. The result shows total points, points obtained, percentage and grade.
+Two options are provided for absolute and relative grading.
+For absolute grading, it takes marks of each individual subject and calculates the total first. The result shows total points, points obtained, percentage and grade.
+
+For relative grading, it takes the mean and standard deviation of the class and calculates the grade. The result show the percentage and grade.
 
 ## Tech Stacks :-
 
@@ -14,4 +17,6 @@ It takes marks of each individual subject and calculates the total first. The re
 
 ## Screenshots :-
 
-![Screenshot 2024-01-03 173344](https://github.com/pankhuri92/CalcDiverse-SWOC-24/assets/138357063/86e5f80a-9a9a-4d68-ae69-c3be78308f20)
+![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/d49d3f0f-b9e2-4b65-b9da-5e44e60ed5c8)
+
+![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/b0753e3b-0fd2-4cb6-9337-d3db9b882869)
